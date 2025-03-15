@@ -1,9 +1,0 @@
-C:/Users/Andre/Desktop/uni/Scientific_Calculator/build/CMakeFiles/Scientific_Calculator.dir
-C:/Users/Andre/Desktop/uni/Scientific_Calculator/build/CMakeFiles/edit_cache.dir
-C:/Users/Andre/Desktop/uni/Scientific_Calculator/build/CMakeFiles/rebuild_cache.dir
-C:/Users/Andre/Desktop/uni/Scientific_Calculator/build/CMakeFiles/list_install_components.dir
-C:/Users/Andre/Desktop/uni/Scientific_Calculator/build/CMakeFiles/install.dir
-C:/Users/Andre/Desktop/uni/Scientific_Calculator/build/CMakeFiles/install/local.dir
-C:/Users/Andre/Desktop/uni/Scientific_Calculator/build/CMakeFiles/install/strip.dir
-C:/Users/Andre/Desktop/uni/Scientific_Calculator/build/CMakeFiles/Scientific_Calculator_autogen_timestamp_deps.dir
-C:/Users/Andre/Desktop/uni/Scientific_Calculator/build/CMakeFiles/Scientific_Calculator_autogen.dir
