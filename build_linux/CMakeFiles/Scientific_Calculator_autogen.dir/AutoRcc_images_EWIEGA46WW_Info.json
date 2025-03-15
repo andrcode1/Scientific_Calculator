@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "/home/andrd/Desktop/Scientific_Calculator/build_linux/Scientific_Calculator_autogen",
+	"CMAKE_BINARY_DIR" : "/home/andrd/Desktop/Scientific_Calculator/build_linux",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/andrd/Desktop/Scientific_Calculator/build_linux",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/andrd/Desktop/Scientific_Calculator",
+	"CMAKE_SOURCE_DIR" : "/home/andrd/Desktop/Scientific_Calculator",
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/andrd/Desktop/Scientific_Calculator/build_linux/Scientific_Calculator_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/andrd/Desktop/Scientific_Calculator/images/historyimage.png",
+		"/home/andrd/Desktop/Scientific_Calculator/images/menuimage.png",
+		"/home/andrd/Desktop/Scientific_Calculator/images/moonImage.png",
+		"/home/andrd/Desktop/Scientific_Calculator/images/sunImage.png",
+		"/home/andrd/Desktop/Scientific_Calculator/images/backspace.png"
+	],
+	"LOCK_FILE" : "/home/andrd/Desktop/Scientific_Calculator/build_linux/CMakeFiles/Scientific_Calculator_autogen.dir/AutoRcc_images_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "images" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_images.cpp",
+	"RCC_EXECUTABLE" : "/home/andrd/Qt/6.8.2/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/andrd/Desktop/Scientific_Calculator/build_linux/CMakeFiles/Scientific_Calculator_autogen.dir/AutoRcc_images_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/andrd/Desktop/Scientific_Calculator/images.qrc",
+	"VERBOSITY" : 0
+}

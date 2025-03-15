@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Scientific_Calculator_FILE /home/andrd/Desktop/Scientific_Calculator/build_linux/Scientific_Calculator)
+set(__QT_DEPLOY_TARGET_Scientific_Calculator_TYPE EXECUTABLE)

@@ -1,0 +1,13 @@
+# ninja log v5
+1	2329	1742066944058920054	Scientific_Calculator_autogen/timestamp	c241931085c2022c
+1	2329	1742066944058920054	Scientific_Calculator_autogen/mocs_compilation.cpp	c241931085c2022c
+1	2329	1742066944058920054	/home/andrd/Desktop/Scientific_Calculator/build_linux/Scientific_Calculator_autogen/timestamp	c241931085c2022c
+1	2329	1742066944058920054	/home/andrd/Desktop/Scientific_Calculator/build_linux/Scientific_Calculator_autogen/mocs_compilation.cpp	c241931085c2022c
+2329	2407	1742066944142919029	Scientific_Calculator_autogen/EWIEGA46WW/qrc_images.cpp	570e2fd24c1bade8
+2329	2407	1742066944142919029	/home/andrd/Desktop/Scientific_Calculator/build_linux/Scientific_Calculator_autogen/EWIEGA46WW/qrc_images.cpp	570e2fd24c1bade8
+2413	2871	1742066944601913401	CMakeFiles/Scientific_Calculator.dir/Scientific_Calculator_autogen/EWIEGA46WW/qrc_images.cpp.o	2d915df4f6f6f354
+2411	5609	1742066947008883777	CMakeFiles/Scientific_Calculator.dir/Source_Files/CalculateExpression.cpp.o	d63a141f0bb15f4f
+2407	5885	1742066947619876249	CMakeFiles/Scientific_Calculator.dir/Source_Files/main.cpp.o	d583780d8d3dd60c
+2407	6071	1742066947812873873	CMakeFiles/Scientific_Calculator.dir/Scientific_Calculator_autogen/mocs_compilation.cpp.o	82a82f60b49052a5
+2409	6334	1742066948057870838	CMakeFiles/Scientific_Calculator.dir/Source_Files/mainwindow.cpp.o	bbc903daa95c2a38
+6334	6765	1742066948498865378	Scientific_Calculator	28173753770d2a6c

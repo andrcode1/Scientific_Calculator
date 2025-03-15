@@ -1,0 +1,9 @@
+/home/andrd/Desktop/Scientific_Calculator/build_linux/CMakeFiles/Scientific_Calculator.dir
+/home/andrd/Desktop/Scientific_Calculator/build_linux/CMakeFiles/edit_cache.dir
+/home/andrd/Desktop/Scientific_Calculator/build_linux/CMakeFiles/rebuild_cache.dir
+/home/andrd/Desktop/Scientific_Calculator/build_linux/CMakeFiles/list_install_components.dir
+/home/andrd/Desktop/Scientific_Calculator/build_linux/CMakeFiles/install.dir
+/home/andrd/Desktop/Scientific_Calculator/build_linux/CMakeFiles/install/local.dir
+/home/andrd/Desktop/Scientific_Calculator/build_linux/CMakeFiles/install/strip.dir
+/home/andrd/Desktop/Scientific_Calculator/build_linux/CMakeFiles/Scientific_Calculator_autogen_timestamp_deps.dir
+/home/andrd/Desktop/Scientific_Calculator/build_linux/CMakeFiles/Scientific_Calculator_autogen.dir
