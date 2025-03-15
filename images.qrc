@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="backspace.png">images/backspace.png</file>
+        <file alias="historyimage.png">images/historyimage.png</file>
+        <file alias="menuimage.png">images/menuimage.png</file>
+        <file alias="moonImage.png">images/moonImage.png</file>
+        <file alias="sunImage.png">images/sunImage.png</file>
+    </qresource>
+</RCC>
