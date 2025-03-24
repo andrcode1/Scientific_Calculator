@@ -6,10 +6,10 @@
 2) Run the program
    - Windows:
      ```sh
-     cd Scientific_Calculator/build_windows
+     cd build_windows
      Scientific_Calculator.exe
    - Linux:
      ```sh
-     cd Scientific_Calculator/build_linux
+     cd build_linux
      chmod +x Scientific_Calculator.AppImage
      ./Scientific_Calculator.AppImage
